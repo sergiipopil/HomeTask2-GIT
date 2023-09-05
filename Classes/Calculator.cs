@@ -19,5 +19,9 @@ namespace HomeTask2_GIT.Classes
         {
             return _x1 + _x2;
         }
+        public int Subtraction()
+        {
+            return _x1 - _x2;
+        }
     }
 }
